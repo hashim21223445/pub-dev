@@ -1,6 +1,6 @@
 {
   "private": true,
   "dependencies": {
-    "lighthouse": "^12.1.0"
+    "lighthouse": "^12.3.0"
   }
 }
